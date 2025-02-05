@@ -11,6 +11,8 @@ To address this issue, we propose **Lifelong Stream-View Clustering (LSVC)**, wh
 
 Experimental results demonstrate that LSVC outperforms traditional single-view and multi-view clustering methods.
 
+For more details, refer to our paper: [DOI: 10.1109/TNNLS.2024.3439394](https://doi.org/10.1109/TNNLS.2024.3439394)
+
 ## Framework Overview
 ![LSVC Framework](Fig3.png)
 
